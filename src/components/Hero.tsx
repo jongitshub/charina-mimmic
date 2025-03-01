@@ -1,6 +1,6 @@
 const Hero = () => {
     return (
-      <section className="relative w-full h-[600px] bg-gray-200 flex items-center justify-center">
+      <section className="relative font-mono w-full h-[600px] bg-gray-200 flex items-center justify-center">
         <img
           src="https://via.placeholder.com/1500x600"
           alt="Hero Banner"
